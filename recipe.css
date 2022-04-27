@@ -4,7 +4,7 @@ body {
     font-size: 11pt;
     font-family: Georgia, 'Times New Roman', Times, serif;
     line-height: 1;
-
+    background-image: url('silverware.jpg');
     background-repeat: repeat;
     background-attachment: fixed;
     color: #404040;
@@ -48,8 +48,8 @@ h3 {
     margin-left: -8em;
 }
 
-.left {
-    text-align: left;
+.right {
+    text-align: right;
 
 }
 
